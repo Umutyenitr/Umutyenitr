@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Umut YENİ
+- 👀 I’m interested in C++ ,javascript,solidity
+- 🌱 I’m currently learning C++
+- 📫 How to reach me instagram umutyenitr
