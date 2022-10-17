@@ -2,6 +2,8 @@
 
 ### Umut YENİ 👋
 
+
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=umutyenitr&show_icons=true&icon_color=278ECF&text_color=718096&bg_color=f7f7f7&hide_title=true" />
