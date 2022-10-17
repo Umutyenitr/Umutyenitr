@@ -8,7 +8,7 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=EnesKaraosman.EnesKaraosman)
+
 [![GitHub Umut Yeni](https://img.shields.io/github/followers/EnesKaraosman?label=follow&style=social)](https://github.com/umutyenitr)
 [![Gmail Badge](https://img.shields.io/badge/-umutyenitr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:umutyenitr@gmail.com)](mailto:umutyenitr@gmail.com)
 <br>
