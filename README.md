@@ -9,6 +9,6 @@
 <!-- prettier-ignore-end -->
 
 
-[![GitHub Umut Yeni](https://img.shields.io/github/followers/EnesKaraosman?label=follow&style=social)](https://github.com/umutyenitr)
+[![GitHub Umut Yeni](https://img.shields.io/github/followers/umutyenitr?label=follow&style=social)](https://github.com/umutyenitr)
 [![Gmail Badge](https://img.shields.io/badge/-umutyenitr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:umutyenitr@gmail.com)](mailto:umutyenitr@gmail.com)
 <br>
